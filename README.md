@@ -7,29 +7,30 @@ Blinkit Sales & Performance Dashboard – Power BI Project
 This project aims to analyze the sales performance, customer behavior, and operational efficiency of Blinkit. The dashboard provides clear insights that help identify top-selling items, understand order trends, track customer ratings, and support better decision-making. It is designed to give users a complete view of the business in a simple and interactive way.
 
 **Tech Stack**
-1)Power BI – for data cleaning, modelling, and creating interactive visuals
 
-2)Power Query – for transforming and preparing raw data
+1) Power BI – for data cleaning, modelling, and creating interactive visuals
 
-3)DAX – for writing measures and calculations
+2) Power Query – for transforming and preparing raw data
 
-4)Excel/CSV – used as the base data source
+3) DAX – for writing measures and calculations
 
-5)GitHub – for project hosting and version control
+4) Excel/CSV – used as the base data source
+
+5) GitHub – for project hosting and version control
 
 **Data Source**
 
 The dataset includes information about:
 
-1)Product categories
+1) Product categories
 
-2)Sales and revenue
+2) Sales and revenue
 
-3)Order quantities
+3) Order quantities
 
-4)Ratings and customer feedback
+4) Ratings and customer feedback
 
-5)Outlet type and location
+5) Outlet type and location
 
 This data was provided in CSV/Excel format and imported into Power BI for analysis.
 
