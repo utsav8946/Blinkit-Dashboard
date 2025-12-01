@@ -29,7 +29,7 @@ This data was provided in CSV/Excel format and imported into Power BI for analys
 🎨 Clean & Modern UI – designed for quick decision-making and easy navigation
 
 **Screenshot of the dashboard**
-Here is what it look like:- 
+Here is what it look like:- (https://github.com/utsav8946/Blinkit-Dashboard/blob/main/Blinkit%20Dashboard.png).
 
 
 
