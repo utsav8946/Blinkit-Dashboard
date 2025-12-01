@@ -5,7 +5,8 @@ Blinkit Sales & Performance Dashboard – Power BI Project
 This project aims to analyze the sales performance, customer behavior, and operational efficiency of Blinkit. The dashboard provides clear insights that help identify top-selling items, understand order trends, track customer ratings, and support better decision-making. It is designed to give users a complete view of the business in a simple and interactive way.
 
 **Tech Stack**
-1)Power BI – for data cleaning, modelling, and creating interactive visuals\n
+1)Power BI – for data cleaning, modelling, and creating interactive visuals
+
 2)Power Query – for transforming and preparing raw data
 3)DAX – for writing measures and calculations
 4)Excel/CSV – used as the base data source
